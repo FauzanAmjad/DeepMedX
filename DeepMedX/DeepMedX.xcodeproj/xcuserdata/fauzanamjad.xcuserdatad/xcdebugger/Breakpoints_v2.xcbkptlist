@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "085BBA77-B16B-4A19-9755-9D87258BF774"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1944E96E-B630-4857-982D-9639E58839B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BruteForceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "HeartAttackAlg(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FB1519F-93E1-4CE2-868C-DC68C8FAC394"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BruteForceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "BruteForceViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1FB1519F-93E1-4CE2-868C-DC68C8FAC394 - da7b6084619edc96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DeepMedX.BruteForceViewController.resultLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DeepMedX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fauzanamjad/Desktop/DeepMedX/BruteForceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "1FB1519F-93E1-4CE2-868C-DC68C8FAC394 - bbfe29fb19853082"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DeepMedX.BruteForceViewController.resultLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DeepMedX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fauzanamjad/Desktop/DeepMedX/BruteForceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "1FB1519F-93E1-4CE2-868C-DC68C8FAC394 - de9b2c4351653744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DeepMedX.BruteForceViewController.resultLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DeepMedX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fauzanamjad/Desktop/DeepMedX/BruteForceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "1FB1519F-93E1-4CE2-868C-DC68C8FAC394 - 3be9ffe06afcf243"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DeepMedX.BruteForceViewController.resultLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DeepMedX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fauzanamjad/Desktop/DeepMedX/BruteForceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "1FB1519F-93E1-4CE2-868C-DC68C8FAC394 - 975edea48640a1f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DeepMedX.BruteForceViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DeepMedX.BruteForceViewController"
+                  moduleName = "DeepMedX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fauzanamjad/Desktop/DeepMedX/BruteForceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "1FB1519F-93E1-4CE2-868C-DC68C8FAC394 - ed1d4ba0591feabe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DeepMedX.BruteForceViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DeepMedX.BruteForceViewController&gt;"
+                  moduleName = "DeepMedX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fauzanamjad/Desktop/DeepMedX/BruteForceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "597">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
